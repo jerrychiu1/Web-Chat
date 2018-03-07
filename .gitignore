@@ -1,5 +1,4 @@
 node_modules/
-package-lock.json
 playground/
 *.DS_Store
 */.DS_Store
