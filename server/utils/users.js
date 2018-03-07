@@ -1,3 +1,4 @@
+// Users class, with all methods associated to the user
 class Users {
     constructor () {
         this.users = [];
